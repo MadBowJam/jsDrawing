@@ -1,3 +1,3 @@
 # jsDrawing
 project from fiverr
-https://madbowjam.github.io/epicGamesCarousel/
+https://madbowjam.github.io/jsDrawing/
